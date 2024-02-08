@@ -1,0 +1,1 @@
+# DEPLOY.EntityFramwork.Analize.v1
